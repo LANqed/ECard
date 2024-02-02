@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>嵐楓の電子名片</title>
+    <link>https://example.org/</link>
+    <description>Recent content on 嵐楓の電子名片</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://lanqed.top&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;By LANqed&lt;/a&gt;</copyright>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
