@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lanqed.vercel.app/categories/</loc>
+    <loc>https://lanqed.github.io/categories/</loc>
   </url><url>
-    <loc>lanqed.vercel.app/series/</loc>
+    <loc>https://lanqed.github.io/series/</loc>
   </url><url>
-    <loc>lanqed.vercel.app/tags/</loc>
+    <loc>https://lanqed.github.io/tags/</loc>
   </url><url>
-    <loc>lanqed.vercel.app/</loc>
+    <loc>https://lanqed.github.io/</loc>
   </url>
 </urlset>
